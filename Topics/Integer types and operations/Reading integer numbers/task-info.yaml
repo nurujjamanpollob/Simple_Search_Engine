@@ -3,18 +3,15 @@ files:
 - name: src/Main.java
   visible: true
   text: |-
-    import java.util.Scanner;
-
     class Main {
         public static void main(String[] args) {
-            Scanner scanner = new Scanner(System.in);
             // put your code here
         }
     }
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/2212#comment
+feedback_link: https://hyperskill.org/learn/step/2924#comment
 status: Solved
 feedback:
   message: <html>Correct solution</html>
-  time: Thu, 16 Sep 2021 07:53:45 UTC
+  time: Thu, 16 Sep 2021 08:29:12 UTC
 record: -1
