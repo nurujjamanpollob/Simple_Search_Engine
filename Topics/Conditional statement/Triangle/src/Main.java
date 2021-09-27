@@ -49,5 +49,16 @@ class Main {
         System.out.println(result);
 
 
+        boolean b1 = false;
+        boolean b2 = true;
+        boolean b3 = false;
+
+        boolean resultl = (b1 && b2) ? b1 : (b2 || b3) ? b2 : b3;
+
+        System.out.println(resultl);
+
+
+
+
     }
 }
