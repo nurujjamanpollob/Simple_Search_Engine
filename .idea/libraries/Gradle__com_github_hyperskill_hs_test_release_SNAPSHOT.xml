@@ -2,12 +2,12 @@
   <library name="Gradle: com.github.hyperskill:hs-test:release-SNAPSHOT">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/release-SNAPSHOT/5da061b739a99ce0c5fbcaf8edb7064b2b6ddaf0/hs-test-release-SNAPSHOT.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../../../Android/Gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/release-SNAPSHOT/a1b832ad6e4e6ae231eb34c1920cd62dd619f253/hs-test-release-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Android/Gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/release-SNAPSHOT/2f7991127fd3c86c39c9e9dd20f3ad4a8abe8666/hs-test-release-SNAPSHOT.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/release-SNAPSHOT/f26d2c60f36c78054b3669f7348217e5cff0ba1c/hs-test-release-SNAPSHOT-sources.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../../../Android/Gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/release-SNAPSHOT/ab8d94eeb5dec11110d9a370c1ff49a22a3a32f1/hs-test-release-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Android/Gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/release-SNAPSHOT/98db3b01989c8a60967f9f4ea0cd37601b69e2a3/hs-test-release-SNAPSHOT-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
